@@ -1,7 +1,7 @@
 // MasterHttpRelay exit node for val.town
 // Deploy as HTTP endpoint in val.town and set PSK to a strong secret.
 
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = "Reza0714oct06101990@";
 
 const STRIP_HEADERS = new Set([
   "host",
